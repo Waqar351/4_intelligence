@@ -1,4 +1,5 @@
-The codes for Question 1 and Question 2 & 3 are implemented in 3 files:
+The codes for Question 1 and Question 2 & 3 are implemented in total 4 (.py) files: 
+Out of 4, 3 files are used to run for generating the results.
 
 #........................................................
 1) descriptive_analysis.py
@@ -13,4 +14,4 @@ This code also uses a sector_separation.py file to group the data in sectors.
 	This code implemented 5 multiple feature models and save the results in "Multiple_features_model_results" folder.
 ..........................................................
 
-Note: Please RUN each file (total 3files) separately to see the results.
+Note: Please RUN each file (total 3files) separately to see the results using the data (excel file).
